@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Anime : MonoBehaviour {
-
+	public GameObject speed; 
 	// Use this for initialization
 	void Start () {
 	
@@ -13,9 +13,11 @@ public class Anime : MonoBehaviour {
 		if (Input.GetKeyDown ("w")||Input.GetKeyDown ("s")||Input.GetKeyDown ("d")||Input.GetKeyDown ("a")) {GetComponent<Animation> ().CrossFade ("walk");}
 		if (Input.GetKeyDown ("space")) {
 						GetComponent<Animation> ().CrossFade ("jump_running");
+		
 				}
 		if (Input.GetKeyDown(KeyCode.LeftShift)) {
-						GetComponent<Animation> ().CrossFade ("run");
+					 	GetComponent<Animation> ().CrossFade ("run");
 				}
+
 	}
 }

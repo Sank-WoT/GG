@@ -4,7 +4,7 @@
 
 // Does this script currently respond to input?
 var canControl : boolean = true;
-
+static var an = 1.0;
 var useFixedUpdate : boolean = true;
 
 // For the next variables, @System.NonSerialized tells Unity to not serialize the variable or show it in the inspector view.
@@ -21,7 +21,7 @@ var inputJump : boolean = false;
 
 class CharacterMotorMovement {
 	// The maximum horizontal speed when moving
-	var maxForwardSpeed : float = 10.0;
+   public var maxForwardSpeed : float = 10.0;
 	var maxSidewaysSpeed : float = 10.0;
 	var maxBackwardsSpeed : float = 10.0;
 	
@@ -503,6 +503,14 @@ private function GetDesiredHorizontalVelocity () {
 	// Find desired velocity
 	var desiredLocalDirection : Vector3 = tr.InverseTransformDirection(inputMoveDirection);
 	var maxSpeed : float = MaxSpeedInDirection(desiredLocalDirection);
+	maxSpeed = maxSpeed * an;
+	if (Input.GetKey(KeyCode.LeftShift)) {  
+                  CharacterMotor.an = 3;  
+              } else {  
+              if (Input.GetKeyUp (KeyCode.LeftShift)) {  
+                  CharacterMotor.an = 1;  
+              }  
+              }
 	if (grounded) {
 		// Modify max speed on slopes based on slope speed multiplier curve
 		var movementSlopeAngle = Mathf.Asin(movement.velocity.normalized.y)  * Mathf.Rad2Deg;

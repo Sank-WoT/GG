@@ -5,6 +5,7 @@ var isQualityButtonFantastic = false;
 var isMainMenuButton = false;
 var isQuitButton = false;
 var isMultiplay = false;
+ public static var isSerw = 0;
 function OnMouseEnter()
 {
 GetComponent.<Renderer>().material.color = Color.gray;
@@ -43,5 +44,9 @@ Application.LoadLevel (0);
 {
 Application.LoadLevel (3);
 }
-
+else if ( isSerw == 0 )
+{
+scena.isSerw = 1;
+Application.LoadLevel (1);
+}
 }

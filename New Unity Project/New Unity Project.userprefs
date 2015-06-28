@@ -1,21 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Anime.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\scena.js">
     <Files>
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Anime.cs" Line="17" Column="41" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Scripts\CharacterMotor.js" Line="1" Column="1" />
-      <File FileName="Assets\Editor\Water (Pro Only)\Water4\GerstnerDisplaceEditor.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\miss1.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Pause.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Pause1.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\scena.js" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Water (Pro Only)\Sources\Scripts\Water.cs" Line="1" Column="1" />
-      <File FileName="Assets\prov.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\damage.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\scena.js" Line="49" Column="15" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Spawn.js" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\weapons.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracteristic.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Explosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Scripts\CharacterMotor.js" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\SpawnPlayer.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
