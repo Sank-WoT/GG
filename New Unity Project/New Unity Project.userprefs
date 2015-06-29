@@ -1,14 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Spawn.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs">
     <Files>
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\scena.js" Line="49" Column="15" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Spawn.js" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Scripts\CharacterMotor.js" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\SpawnPlayer.js" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\GUI\Aim.js" Line="7" Column="13" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\weapons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs" Line="28" Column="73" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\AI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\AutoAim.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
