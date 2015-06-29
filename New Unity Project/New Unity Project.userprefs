@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Project\New Unity Project\Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs">
     <Files>
-      <File FileName="..\..\..\Project\New Unity Project\Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs" Line="6" Column="22" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs" Line="9" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
