@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\AI.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\AutoAim.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Ai1.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Anime.cs" />
