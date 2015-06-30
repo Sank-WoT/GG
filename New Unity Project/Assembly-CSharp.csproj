@@ -48,8 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\AI.cs" />
-     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Ai1.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\AutoAim.cs" />
+     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Ai1.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Anime.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Explosion.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracter.cs" />
