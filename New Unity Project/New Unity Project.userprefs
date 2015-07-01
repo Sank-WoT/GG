@@ -1,11 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracter.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\GUI\BarUpdater.cs">
     <Files>
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracter.cs" Line="40" Column="5" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracter.cs" Line="33" Column="20" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\miss1.cs" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracteristic.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Attack.cs" Line="5" Column="15" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Attack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\GUI\BarUpdater.cs" Line="38" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

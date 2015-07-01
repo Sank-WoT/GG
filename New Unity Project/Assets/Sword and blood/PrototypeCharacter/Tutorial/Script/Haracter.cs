@@ -42,7 +42,7 @@ public class Haracter : MonoBehaviour {
 			            {
 				                Debug.Log("Attack");
 				                t = Time.time + SpeedAttack ;
-								P.GetComponent<Haracteristic> ().Healt -= Damag; // Обращение к переменной и ее изменение
+								P.GetComponent<Haracteristic> ().Health -= Damag; // Обращение к переменной и ее изменение
 						}
 		}
 		if(Health<1) 
