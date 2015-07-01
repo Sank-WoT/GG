@@ -50,6 +50,7 @@
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\AutoAim.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Ai1.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Anime.cs" />
+     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Attack.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Explosion.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracter.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracteristic.cs" />

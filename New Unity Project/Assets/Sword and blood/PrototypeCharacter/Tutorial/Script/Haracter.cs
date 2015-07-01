@@ -14,6 +14,7 @@ public class Haracter : MonoBehaviour {
 	GameObject P; 
 	GameObject target; 
 	float Har;
+	int Peremen = 0;
 	public void Damage(float dmg) 
 	{ 
 		Health -= dmg; 
@@ -32,6 +33,11 @@ public class Haracter : MonoBehaviour {
 		//Debug.Log(Har);
 		if (Har < 5) 
 		{	
+			if(Peremen == 0)
+			{
+			t = Time.time + SpeedAttack ;
+				Peremen++;
+			}
 						if (Time.time > t) 
 			            {
 				                Debug.Log("Attack");
