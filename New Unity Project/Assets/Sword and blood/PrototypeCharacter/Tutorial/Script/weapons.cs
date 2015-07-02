@@ -1,9 +1,12 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 public class weapons : MonoBehaviour 
 {
+	public GameObject Sword;
+	public GameObject Bow;
 	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
 	SelectWeapon(0);
 	}
 	
@@ -11,14 +14,23 @@ public class weapons : MonoBehaviour
 	void Update () {
 						if (Input.GetKeyDown ("1")) 
 			            {
+			Null();
+			Bow.SetActive(true);
 								SelectWeapon (0);
 						} 
 			            else if (Input.GetKeyDown ("2"))
 			            {
+			Null();
+			Sword.SetActive(true);
 								SelectWeapon (1);
 						}
 
 }
+	void Null()
+	{
+		Bow.SetActive(false);
+		Sword.SetActive(false);
+	}
 	void  SelectWeapon( int index)
 	{
 		for (int i=0;i < transform.childCount;i++) 
