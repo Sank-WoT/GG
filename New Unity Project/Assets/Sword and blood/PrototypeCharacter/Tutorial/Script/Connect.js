@@ -1,4 +1,4 @@
-﻿var remoteIP = "127.0.0.1";
+var remoteIP = "127.0.0.1";
 var remotePort = 25000;
 var listenPort = 25000;
 var useNAT = false;
@@ -35,7 +35,10 @@ var port = Network.player.port.ToString();
 GUI.Label(new Rect(140,20,250,40),"IP:"+ipaddress+":"+port);
 if(GUI.Button(new Rect(10,10,100,50),"Disconnect"))
 {
+scena.isSerw = 0;
+Destroy( gameObject, 0 );
 Network.Disconnect(200);
+Application.LoadLevel(0);
 }
 }
 }

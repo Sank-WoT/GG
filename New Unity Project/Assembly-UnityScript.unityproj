@@ -58,12 +58,13 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
-     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\CharacterMotor.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\FPSInputController.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\PlatformInputController.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\ThirdPersonCamera.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Scripts\ThirdPersonController.js" />
+     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\CharacterMotor.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js" />
+     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\DeleteNet.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Map.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Spawn.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\SpawnPlayer.js" />

@@ -1,4 +1,4 @@
-﻿var isNewGameButton = false;
+var isNewGameButton = false;
 var isOptionsButton = false; 
 var isQualityButtonFastest = false;
 var isQualityButtonFantastic = false;
@@ -42,6 +42,7 @@ else if ( isMainMenuButton )
 Application.LoadLevel (0);
 }else if ( isMultiplay )
 {
+Destroy( gameObject, 0 );
 Application.LoadLevel (3);
 }
 else if ( isSerw == 0 )
