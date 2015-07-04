@@ -1,7 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNetJs.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\SpawnPlayer.js">
     <Files>
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\SpawnPlayer.js" Line="13" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNetJs.js" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\CharacterMotor.js" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNet.cs" Line="1" Column="1" />
