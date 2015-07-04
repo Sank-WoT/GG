@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Haracter : MonoBehaviour {
@@ -40,7 +40,6 @@ public class Haracter : MonoBehaviour {
 			}
 						if (Time.time > t) 
 			            {
-				                Debug.Log("Attack");
 				                t = Time.time + SpeedAttack ;
 								P.GetComponent<Haracteristic> ().Health -= Damag; // Обращение к переменной и ее изменение
 						}

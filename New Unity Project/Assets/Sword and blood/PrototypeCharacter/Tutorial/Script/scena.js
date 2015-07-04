@@ -5,7 +5,8 @@ var isQualityButtonFantastic = false;
 var isMainMenuButton = false;
 var isQuitButton = false;
 var isMultiplay = false;
- public static var isSerw = 0;
+var isCreatyMultiplay = false;
+ public static var isServ : boolean = false;
 function OnMouseEnter()
 {
 GetComponent.<Renderer>().material.color = Color.gray;
@@ -40,14 +41,19 @@ Application.LoadLevel (2);
 else if ( isMainMenuButton )
 {
 Application.LoadLevel (0);
-}else if ( isMultiplay )
+}
+else if ( isMultiplay )
 {
 Destroy( gameObject, 0 );
 Application.LoadLevel (3);
 }
-else if ( isSerw == 0 )
+else if ( isCreatyMultiplay )
 {
-scena.isSerw = 1;
+ if ( isServ == false )
+{
+isServ = true;
 Application.LoadLevel (1);
+}
+
 }
 }
