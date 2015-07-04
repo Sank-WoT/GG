@@ -60,10 +60,10 @@
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Haracteristic.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Pause.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Pause1.cs" />
-     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNet.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\damage.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\miss1.cs" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\weapons.cs" />
+     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\PlayerNet.cs" />
      <Compile Include="Assets\prov.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets\Glass Refraction (Pro Only)\Sources\Shaders\Glass-Stained-BumpDistort.shader" />
@@ -99,7 +99,7 @@
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\_Antialiasing\FXAAPreset3.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\Contrast Stretch\Apply.shader" />
-     <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\frag_ao.cginc" />
      <None Include="Assets\Models\Characters\Knight\knight_notes.txt" />
@@ -128,7 +128,7 @@
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\BlurEffectConeTaps.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\CameraMotionBlur.shader" />
-     <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\_Antialiasing\DLAA.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\NoiseAndGrainDX11.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
@@ -154,8 +154,8 @@
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\_BloomAndFlares\Blend.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\BlendModesOverlay.shader" />
-     <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
-     <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\SimpleClear.shader" />
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
      <None Include="Assets\Standard Assets\Physic Materials\_Sources\Shaders\_Antialiasing\FXAA3Console.shader" />

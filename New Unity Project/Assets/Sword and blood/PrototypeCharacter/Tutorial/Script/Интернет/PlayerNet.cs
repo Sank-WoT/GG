@@ -1,13 +1,14 @@
-﻿using UnityEngine;
+﻿
+using UnityEngine;
 using System.Collections;
 
 public class PlayerNet : MonoBehaviour 
 {
-	private     NetworkView nView; 
-
+	public NetworkView nView; 
+	
 	// Use this for initialization
 	void Start () {
-	
+		nView = GetComponent<NetworkView>();
 	}
 	
 	// Update is called once per frame
@@ -16,6 +17,6 @@ public class PlayerNet : MonoBehaviour
 		{
 			GetComponent<MouseLook>().enabled = false;
 		}
-
+		
 	}
 }

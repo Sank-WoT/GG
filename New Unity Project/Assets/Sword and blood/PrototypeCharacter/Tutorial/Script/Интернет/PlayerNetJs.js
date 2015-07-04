@@ -4,9 +4,11 @@ private var anotherScript : CharacterMotor;
 function Start () {
 
 }
-
-function Update () {
-if(!nView.isMine){
+function Update () 
+{
+if(!nView.isMine)
+{
 GetComponent(CharacterMotor).enabled = false;
+GetComponent(FPSInputController).enabled = false;
 }
 }
