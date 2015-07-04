@@ -6,9 +6,7 @@ function Start () {
 }
 
 function Update () {
-if (!nView.isMine)
-		{
-			 anotherScript = GetComponent(CharacterMotor);
-			 anotherScript.enabled = false;
-		}
+if(!nView.isMine){
+GetComponent(CharacterMotor).enabled = false;
+}
 }
