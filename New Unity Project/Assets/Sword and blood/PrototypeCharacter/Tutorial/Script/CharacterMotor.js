@@ -6,7 +6,6 @@
 var canControl : boolean = true;
 static var an = 1.0;
 var useFixedUpdate : boolean = true;
-var   nView : NetworkView; 
 
 // For the next variables, @System.NonSerialized tells Unity to not serialize the variable or show it in the inspector view.
 // Very handy for organization!
@@ -183,9 +182,6 @@ function Awake () {
 
 private function UpdateFunction () 
 {
-  nView = GetComponent(NetworkView);
-if (nView.isMine || scena.isSerw==0)
-{
 	// We copy the actual velocity into a temporary variable that we can manipulate.
 	var velocity : Vector3 = movement.velocity;
 	
@@ -310,7 +306,6 @@ if (nView.isMine || scena.isSerw==0)
 		// Support moving platform rotation as well:
         movingPlatform.activeGlobalRotation = tr.rotation;
         movingPlatform.activeLocalRotation = Quaternion.Inverse(movingPlatform.activePlatform.rotation) * movingPlatform.activeGlobalRotation; 
-	}
 	}
 }
 function FixedUpdate () {

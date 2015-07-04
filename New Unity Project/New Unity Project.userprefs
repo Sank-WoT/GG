@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNetJs.js">
     <Files>
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js" Line="47" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\scena.js" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNetJs.js" Line="14" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

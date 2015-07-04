@@ -66,6 +66,7 @@
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\DeleteNet.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Map.js" />
+     <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\PlayerNetJs.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Spawn.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\SpawnPlayer.js" />
      <Compile Include="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\collision.js" />
