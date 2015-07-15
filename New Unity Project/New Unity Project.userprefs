@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\PlayerNet.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\NET.js">
     <Files>
-      <File FileName="New Unity Project.sln" Line="1" Column="1" />
-      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\PlayerNet.cs" Line="22" Column="2" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\NET.js" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Connect.js" Line="1" Column="1" />
+      <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\PlayerNet.cs" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\Интернет\DeleteNet.js" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\CharacterMotor.js" Line="1" Column="1" />
       <File FileName="Assets\Sword and blood\PrototypeCharacter\Tutorial\Script\scena.js" Line="1" Column="1" />
